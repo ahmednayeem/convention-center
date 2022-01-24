@@ -6,8 +6,21 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.i-color{
+    color:#644cee;
+}
+
+
 
 .btn-color{
     background: #FEF5FA;
     text-decoration: none;
+}
+
+.bg-color{
+    background: #FEF5FA;
+}
+.f-color{
+    background: #0D2941;
+    color:#D9DBE1;
 }
