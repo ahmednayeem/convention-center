@@ -7,7 +7,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.img{
-    width: 1440px;
-height: 584px;
+.btn-color{
+    background: #FEF5FA;
+    text-decoration: none;
 }
